@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+scikit-learn
+matplotlib
+keras
+tensorflow
+seaborn
+joblib
+opencv-python-headless
+Pillow
